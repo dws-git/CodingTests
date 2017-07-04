@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace MarsRover
 {
-    enum Heading
+    public enum Heading
     {
         N = 1,
         E = 2,
